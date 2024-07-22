@@ -83,7 +83,7 @@ Leveraging the Technology Stack with Power BI Through:
 - Data Transformation and Cleaning: Importing data and cleaning
 - Exploratory Data Analysis (EDA): Creating Charts and graphs
 - Data Modeling with DAX: Data Expression Analysis (DAX) to create Columns, Measures, and Other Calculations necessary for the project
-- Interactive Dashboard Creation:Creating  Dashboarbs for presentation
+- Interactive Dashboard Creation:Creating  Dashboards for presentation
 
 
 ![]
@@ -91,15 +91,16 @@ Leveraging the Technology Stack with Power BI Through:
 
 ## Data Analysis Project Scope
 - **Project Inception:**
-  - Objective Definition: Outlining goals and deliverables, understanding the questions to be answered.
-- **Data Cleaning and Preprocessing: 
-  - Data Inspection
-  - Data Transformation
-- **Exploratory Data Analysis: 
-  - Descriptive Statistics
-  - Data Visualization
-- **Report Compilation: 
-  - Dashboard Creation
-  - Narrative and Storytelling
+  - Objective Definition: Outlining goals and deliverables and understanding the questions to be answered.
+- **Data Cleaning and Preprocessing:** 
+  - Data Inspection: Missing Values, Duplicates, and Inconsistencies treatment
+  - Data Transformation: Using Power Query to clean and transform the data into a suitable format
+- **Exploratory Data Analysis:**
+  - Descriptive Statistics: Creating Visualizations to get a summary of the main aspects of data
+  - Data Visualization: Create Initial Visualizations to understand the data patterns, trends,  and outliers
+- **Report Compilation:**
+  - Dashboard Creation: Interactive dashboard providing comprehensive analysis
+  - Narrative and Storytelling: Align visualizations for a coherent and consistent story naration
+  
 ![]()
 
